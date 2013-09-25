@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "tybg",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Give praise to the Based God",
+    "description": "The description of the application"
+  }
+}
